@@ -1,0 +1,232 @@
+0 s B1 (B1,0,B1)
+0 s B1 (B1,0,B1)
+0 s B2 (B2,0,B2)
+0 s B2 (B2,0,B2)
+0 s B3 (B3,0,B3)
+0 s B3 (B3,0,B3)
+0 s B3 (B3,0,B3)
+0 s B4 (B4,0,B4)
+0 s B4 (B4,0,B4)
+0 s B4 (B4,0,B4)
+0 s B4 (B4,0,B4)
+0 s B5 (B5,0,B5)
+0 s B5 (B5,0,B5)
+0 s B5 (B5,0,B5)
+1 r B1 (B3,0,B3)
+1 r B1 (B2,0,B2)
+1 r B2 (B4,0,B4)
+1 r B2 (B1,0,B1)
+1 r B3 (B5,0,B5)
+1 r B3 (B4,0,B4)
+1 r B3 (B1,0,B1)
+1 r B4 (B5,0,B5)
+1 r B4 (B5,0,B5)
+1 r B4 (B3,0,B3)
+1 r B4 (B2,0,B2)
+1 r B5 (B4,0,B4)
+1 r B5 (B4,0,B4)
+1 r B5 (B3,0,B3)
+1 s B1 (B1,0,B1)
+1 s B1 (B1,0,B1)
+1 s B2 (B1,1,B2)
+1 s B2 (B4,1,B2)
+1 s B3 (B1,1,B3)
+1 s B3 (B4,1,B3)
+1 s B3 (B5,1,B3)
+1 s B3 (B1,1,B3)
+1 s B4 (B5,1,B4)
+1 s B4 (B5,1,B4)
+1 s B4 (B5,1,B4)
+1 s B4 (B3,1,B4)
+1 s B4 (B3,1,B4)
+1 s B4 (B2,1,B4)
+1 s B4 (B2,1,B4)
+1 s B4 (B2,1,B4)
+1 s B4 (B5,1,B4)
+1 s B4 (B5,1,B4)
+1 s B5 (B4,1,B5)
+1 s B5 (B4,1,B5)
+1 s B5 (B4,1,B5)
+1 s B5 (B3,1,B5)
+2 r B1 (B4,1,B3)
+2 r B1 (B4,1,B2)
+2 r B1 (B5,1,B3)
+2 r B2 (B1,0,B1)
+2 r B2 (B5,1,B4)
+2 r B2 (B3,1,B4)
+2 r B2 (B5,1,B4)
+2 r B3 (B2,1,B4)
+2 r B3 (B5,1,B4)
+2 r B3 (B1,0,B1)
+2 r B3 (B4,1,B5)
+2 r B4 (B4,1,B5)
+2 r B4 (B1,1,B3)
+2 r B4 (B4,1,B5)
+2 r B4 (B3,1,B5)
+2 r B4 (B1,1,B2)
+2 r B5 (B5,1,B4)
+2 r B5 (B5,1,B4)
+2 r B5 (B3,1,B4)
+2 r B5 (B2,1,B4)
+2 r B5 (B2,1,B4)
+2 r B5 (B1,1,B3)
+2 s B1 (B1,0,B1)
+2 s B1 (B1,0,B1)
+2 s B2 (B3,2,B2)
+2 s B2 (B5,2,B2)
+2 s B2 (B1,1,B2)
+2 s B2 (B5,2,B2)
+2 s B3 (B1,1,B3)
+2 s B3 (B1,1,B3)
+2 s B3 (B5,2,B3)
+2 s B3 (B2,2,B3)
+2 s B3 (B4,2,B3)
+2 s B4 (B1,2,B4)
+2 s B4 (B3,2,B4)
+2 s B4 (B1,2,B4)
+2 s B4 (B1,2,B4)
+2 s B4 (B1,2,B4)
+2 s B4 (B3,2,B4)
+2 s B4 (B3,2,B4)
+2 s B4 (B4,2,B4)
+2 s B4 (B4,2,B4)
+2 s B4 (B4,2,B4)
+2 s B4 (B4,2,B4)
+2 s B4 (B4,2,B4)
+2 s B4 (B1,2,B4)
+2 s B5 (B3,2,B5)
+2 s B5 (B3,2,B5)
+2 s B5 (B2,2,B5)
+2 s B5 (B2,2,B5)
+2 s B5 (B2,2,B5)
+2 s B5 (B5,2,B5)
+2 s B5 (B5,2,B5)
+2 s B5 (B1,2,B5)
+2 s B5 (B5,2,B5)
+3 r B1 (B2,2,B3)
+3 r B1 (B3,2,B2)
+3 r B1 (B5,2,B2)
+3 r B1 (B4,2,B3)
+3 r B1 (B5,2,B3)
+3 r B1 (B5,2,B2)
+3 r B2 (B1,2,B4)
+3 r B2 (B3,2,B4)
+3 r B2 (B4,2,B4)
+3 r B2 (B4,2,B4)
+3 r B2 (B1,0,B1)
+3 r B3 (B5,2,B5)
+3 r B3 (B1,2,B4)
+3 r B3 (B1,0,B1)
+3 r B3 (B2,2,B5)
+3 r B3 (B4,2,B4)
+3 r B3 (B3,2,B5)
+3 r B3 (B3,2,B4)
+3 r B4 (B1,2,B5)
+3 r B4 (B2,2,B5)
+3 r B4 (B2,2,B5)
+3 r B4 (B1,1,B2)
+3 r B4 (B1,1,B3)
+3 r B4 (B5,2,B5)
+3 r B4 (B5,2,B5)
+3 r B4 (B3,2,B5)
+3 r B5 (B3,2,B4)
+3 r B5 (B1,1,B3)
+3 r B5 (B4,2,B4)
+3 r B5 (B1,2,B4)
+3 r B5 (B1,2,B4)
+3 r B5 (B4,2,B4)
+3 r B5 (B1,2,B4)
+B1: A-DP B-DP G-DP
+B2: F-DP G-RP
+B3: B-RP C-DP
+B4: C-NP E-DP F-RP
+B5: C-RP D-DP E-NP
+0 r B5 D-->A
+0 s B5 D-->A
+1 r B3 D-->A
+1 s B3 D-->A
+2 r B1 D-->A
+2 s B1 D-->A
+2 s B1 D-->A
+3 r B2 D-->A
+3 s B2 D-->A
+4 r B4 D-->A
+4 s B4 D-->A
+B1:
+HOST ID | FORWARDING PORT
+H9 | B
+B2:
+HOST ID | FORWARDING PORT
+H9 | G
+B3:
+HOST ID | FORWARDING PORT
+H9 | C
+B4:
+HOST ID | FORWARDING PORT
+H9 | F
+B5:
+HOST ID | FORWARDING PORT
+H9 | D
+
+0 r B1 B-->F
+0 r B3 B-->F
+0 s B1 B-->F
+0 s B1 B-->F
+0 s B3 B-->F
+1 r B2 B-->F
+1 r B5 B-->F
+1 s B2 B-->F
+1 s B5 B-->F
+2 r B4 B-->F
+2 s B4 B-->F
+B1:
+HOST ID | FORWARDING PORT
+H4 | B
+H9 | B
+B2:
+HOST ID | FORWARDING PORT
+H4 | G
+H9 | G
+B3:
+HOST ID | FORWARDING PORT
+H4 | B
+H9 | C
+B4:
+HOST ID | FORWARDING PORT
+H4 | F
+H9 | F
+B5:
+HOST ID | FORWARDING PORT
+H4 | C
+H9 | D
+
+0 r B1 A-->D
+0 s B1 A-->D
+1 r B3 A-->D
+1 s B3 A-->D
+2 r B5 A-->D
+2 s B5 A-->D
+B1:
+HOST ID | FORWARDING PORT
+H3 | A
+H4 | B
+H9 | B
+B2:
+HOST ID | FORWARDING PORT
+H4 | G
+H9 | G
+B3:
+HOST ID | FORWARDING PORT
+H3 | B
+H4 | B
+H9 | C
+B4:
+HOST ID | FORWARDING PORT
+H4 | F
+H9 | F
+B5:
+HOST ID | FORWARDING PORT
+H3 | C
+H4 | C
+H9 | D
+
